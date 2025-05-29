@@ -214,13 +214,13 @@ grid-column:1/3;
 
 }
 .grafico--node{
-    background-image: url(/build/media/image/grafico2.webp);
+    background-image: url(build/media/image/grafico2.webp);
     grid-row: 8/9;
 
 }
 .grafico--camisas{
 grid-row:2/3;
-background-image: url(/build/media/image/grafico1.webp);
+background-image: url(build/media/image/grafico1.webp);
 border-radius: 5px;
 
 }
